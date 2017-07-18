@@ -1,0 +1,10 @@
+hashbrowns-recipe.txt
+- 3 Potatoes
+- 1 stick of butter
+- frying pan
+- brick
+
+Directions:
+1. Wash, peel(optional), shred potatoes.
+2. Leave out to dry.
+3. Fry in pay with brick on top until crispy.
